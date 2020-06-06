@@ -2,7 +2,7 @@
 
 #modal {
     background-color: #0E0A14ef;
-    
+
     height: 100vh;
     width: 100vw;
 
@@ -14,7 +14,11 @@
     align-items: center;
 
     transition: 400ms;
-}  
+}
+
+#modal.hide {
+    display: none;
+}
 
 #modal .content {
     color: white;
