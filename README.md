@@ -7,10 +7,9 @@
 </h1>
 
 # Índice
-- [Índice](#índice)
-  - [🎯Sobre](#sobre)
-  - [🚀Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [📁Como baixar o projecto](#como-baixar-o-projecto)
+  - [Sobre](#sobre)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Como baixar o projecto](#como-baixar-o-projecto)
 
 
 ## 🎯Sobre
